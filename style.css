@@ -1,0 +1,11 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.reset-button:hover{
+    color:white;
+    background-color: rgb(184, 38, 38);
+}
+.submit-button:hover{
+    color:white;
+    background-color: rgba(25, 184, 38, 0.918);
+}
